@@ -11,6 +11,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   printf("helloword");
+  printf("are you ok");
 }
 
 // put function definitions here:
