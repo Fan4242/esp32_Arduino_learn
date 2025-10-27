@@ -19,7 +19,7 @@ void PinIntEvent()
 {
     Serial.printf("PinInt Event.\r\n");
     digitalWrite(15,stateLED);
-    printf("v5 _test");
+    printf("dev _test");
 }
 
 void setup()
